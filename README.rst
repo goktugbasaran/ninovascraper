@@ -25,11 +25,6 @@ From the path of *NinovaScraper.py* open command-line
 Installing packages
 ~~~~~~~~~~~~~~~~~~~~~~
 
-.. code-block:: batch
-
-	python -m pip install -r requirements.txt
-
-or
 
 .. code-block:: batch
 
@@ -39,10 +34,6 @@ or
 Running the scraper
 *********************
 
-.. code-block:: batch
-
-	python NinovaScraper.py
-or
 
 .. code-block:: batch
 
